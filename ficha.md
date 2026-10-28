@@ -4,8 +4,14 @@
 
 **Fuente:** CDC, "Rates of Laboratory-Confirmed RSV, COVID-19, and Flu Hospitalizations from the RESP-NET Surveillance Systems", https://data.cdc.gov/Public-Health-Surveillance/Rates-of-Laboratory-Confirmed-RSV-COVID-19-and-Flu/kvib-3txy, descargada el [día de mes de 2026].
 
-**Frecuencia y longitud:** semanal (m = 52), de 2018 a 2026: n = 300, frente a un mínimo de 223 para h = 4.
+**Frecuencia y longitud:** semanal (m = 52). n = 420 semanas desde la
+temporada 2018-19 (298 observadas y 122 de temporada baja sin reporte),
+frente a un mínimo de 223 para h = 4.
 
-**Pregunta:** pronosticar las próximas cuatro semanas para que un departamento de salud planee camas y personal sin subestimar el pico de la temporada.
+**Pregunta:** pronosticar las próximas 4 semanas para que un sistema de
+salud anticipe la demanda de camas durante la temporada de influenza.
 
-**Esperamos:** estación anual marcada, casi ausencia de casos en 2020-21 (cambio de nivel), cambios en las áreas de vigilancia y datos recientes sujetos a revisión.
+**Lo que esperamos ver:** estación anual con picos entre diciembre y
+febrero, una temporada 2020-21 atípica por la pandemia, huecos de
+mayo a septiembre (salvo 2024, con reporte continuo) y un posible
+cambio en la cobertura del reporte.
